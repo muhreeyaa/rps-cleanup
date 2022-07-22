@@ -5,6 +5,7 @@
 # use this test:
 #
 
+from game import winner
 
 def test_winner():
     tie_message = "It's a tie!"
